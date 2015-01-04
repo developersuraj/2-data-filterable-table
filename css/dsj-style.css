@@ -1,7 +1,7 @@
 <!--
 /*
 /
-/ Programming Logic - #2  [Data Filterable Table]
+/ Programming Logic - #2  [HTML/JQUERY Table Filter]
 / Developer : Suraj Jain
 / Blog : https://developersurajjain.blogspot.com/
 / Website : http://www.surajjain.com/
